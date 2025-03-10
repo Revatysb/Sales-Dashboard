@@ -1,1 +1,2 @@
 # Sales-Dashboard
+Developed an interactive Tableau sales dashboard integrating KPIs, time series analysis, and category-wise profit segmentation. Utilized advanced visualizations (line charts, bar charts, donut charts) with dynamic filters. Enabled trend analysis, sales-performance comparison (Current Year vs. Previous year), and profit classification (above/below threshold). Implemented slicer synchronization, data blending, and calculated fields for actionable insights. Ensured responsiveness and cross-platform compatibility.
