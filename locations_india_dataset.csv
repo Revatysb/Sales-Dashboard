@@ -1,0 +1,601 @@
+City,Country,State,Region,Postal Code
+Bangalore,India,Karnataka,Southern,560001
+Bhopal,India,Madhya Pradesh,Central,462001
+Mumbai,India,Maharashtra,Western,400001
+Delhi,India,Delhi,Northern,110001
+Patna,India,Bihar,Eastern,800001
+Chennai,India,Tamil Nadu,Southern,600001
+Bhopal,India,Madhya Pradesh,Central,462001
+Chandigarh,India,Chandigarh,Northern,160001
+Bangalore,India,Karnataka,Southern,560001
+Thiruvananthapuram,India,Kerala,Southern,695001
+Guwahati,India,Assam,Northeastern,781001
+Pune,India,Maharashtra,Western,411001
+Jaipur,India,Rajasthan,Northern,302001
+Guwahati,India,Assam,Northeastern,781001
+Pune,India,Maharashtra,Western,411001
+Kolkata,India,West Bengal,Eastern,700001
+Chandigarh,India,Chandigarh,Northern,160001
+Delhi,India,Delhi,Northern,110001
+Hyderabad,India,Telangana,Southern,500001
+Nagpur,India,Maharashtra,Western,440001
+Pune,India,Maharashtra,Western,411001
+Hyderabad,India,Telangana,Southern,500001
+Chandigarh,India,Chandigarh,Northern,160001
+Bhopal,India,Madhya Pradesh,Central,462001
+Chennai,India,Tamil Nadu,Southern,600001
+Lucknow,India,Uttar Pradesh,Northern,226001
+Bangalore,India,Karnataka,Southern,560001
+Bhubaneswar,India,Odisha,Eastern,751001
+Kolkata,India,West Bengal,Eastern,700001
+Lucknow,India,Uttar Pradesh,Northern,226001
+Patna,India,Bihar,Eastern,800001
+Indore,India,Madhya Pradesh,Central,452001
+Jaipur,India,Rajasthan,Northern,302001
+Thiruvananthapuram,India,Kerala,Southern,695001
+Mumbai,India,Maharashtra,Western,400001
+Chennai,India,Tamil Nadu,Southern,600001
+Hyderabad,India,Telangana,Southern,500001
+Thiruvananthapuram,India,Kerala,Southern,695001
+Delhi,India,Delhi,Northern,110001
+Hyderabad,India,Telangana,Southern,500001
+Nagpur,India,Maharashtra,Western,440001
+Bhopal,India,Madhya Pradesh,Central,462001
+Guwahati,India,Assam,Northeastern,781001
+Guwahati,India,Assam,Northeastern,781001
+Jaipur,India,Rajasthan,Northern,302001
+Guwahati,India,Assam,Northeastern,781001
+Nagpur,India,Maharashtra,Western,440001
+Bangalore,India,Karnataka,Southern,560001
+Kolkata,India,West Bengal,Eastern,700001
+Kolkata,India,West Bengal,Eastern,700001
+Chennai,India,Tamil Nadu,Southern,600001
+Kolkata,India,West Bengal,Eastern,700001
+Bhopal,India,Madhya Pradesh,Central,462001
+Bhopal,India,Madhya Pradesh,Central,462001
+Chennai,India,Tamil Nadu,Southern,600001
+Lucknow,India,Uttar Pradesh,Northern,226001
+Nagpur,India,Maharashtra,Western,440001
+Thiruvananthapuram,India,Kerala,Southern,695001
+Ahmedabad,India,Gujarat,Western,380001
+Bhopal,India,Madhya Pradesh,Central,462001
+Bhopal,India,Madhya Pradesh,Central,462001
+Indore,India,Madhya Pradesh,Central,452001
+Kolkata,India,West Bengal,Eastern,700001
+Bhopal,India,Madhya Pradesh,Central,462001
+Thiruvananthapuram,India,Kerala,Southern,695001
+Pune,India,Maharashtra,Western,411001
+Delhi,India,Delhi,Northern,110001
+Kolkata,India,West Bengal,Eastern,700001
+Guwahati,India,Assam,Northeastern,781001
+Jaipur,India,Rajasthan,Northern,302001
+Patna,India,Bihar,Eastern,800001
+Chandigarh,India,Chandigarh,Northern,160001
+Nagpur,India,Maharashtra,Western,440001
+Indore,India,Madhya Pradesh,Central,452001
+Kolkata,India,West Bengal,Eastern,700001
+Chandigarh,India,Chandigarh,Northern,160001
+Indore,India,Madhya Pradesh,Central,452001
+Indore,India,Madhya Pradesh,Central,452001
+Chennai,India,Tamil Nadu,Southern,600001
+Delhi,India,Delhi,Northern,110001
+Patna,India,Bihar,Eastern,800001
+Hyderabad,India,Telangana,Southern,500001
+Hyderabad,India,Telangana,Southern,500001
+Chandigarh,India,Chandigarh,Northern,160001
+Chennai,India,Tamil Nadu,Southern,600001
+Lucknow,India,Uttar Pradesh,Northern,226001
+Bhubaneswar,India,Odisha,Eastern,751001
+Nagpur,India,Maharashtra,Western,440001
+Lucknow,India,Uttar Pradesh,Northern,226001
+Guwahati,India,Assam,Northeastern,781001
+Bangalore,India,Karnataka,Southern,560001
+Pune,India,Maharashtra,Western,411001
+Visakhapatnam,India,Andhra Pradesh,Southern,530001
+Surat,India,Gujarat,Western,395001
+Mumbai,India,Maharashtra,Western,400001
+Visakhapatnam,India,Andhra Pradesh,Southern,530001
+Bhubaneswar,India,Odisha,Eastern,751001
+Bhopal,India,Madhya Pradesh,Central,462001
+Indore,India,Madhya Pradesh,Central,452001
+Bhopal,India,Madhya Pradesh,Central,462001
+Lucknow,India,Uttar Pradesh,Northern,226001
+Bhopal,India,Madhya Pradesh,Central,462001
+Chennai,India,Tamil Nadu,Southern,600001
+Kolkata,India,West Bengal,Eastern,700001
+Ahmedabad,India,Gujarat,Western,380001
+Jaipur,India,Rajasthan,Northern,302001
+Pune,India,Maharashtra,Western,411001
+Lucknow,India,Uttar Pradesh,Northern,226001
+Indore,India,Madhya Pradesh,Central,452001
+Nagpur,India,Maharashtra,Western,440001
+Surat,India,Gujarat,Western,395001
+Delhi,India,Delhi,Northern,110001
+Kolkata,India,West Bengal,Eastern,700001
+Patna,India,Bihar,Eastern,800001
+Lucknow,India,Uttar Pradesh,Northern,226001
+Indore,India,Madhya Pradesh,Central,452001
+Chennai,India,Tamil Nadu,Southern,600001
+Chennai,India,Tamil Nadu,Southern,600001
+Visakhapatnam,India,Andhra Pradesh,Southern,530001
+Chennai,India,Tamil Nadu,Southern,600001
+Bangalore,India,Karnataka,Southern,560001
+Chennai,India,Tamil Nadu,Southern,600001
+Lucknow,India,Uttar Pradesh,Northern,226001
+Guwahati,India,Assam,Northeastern,781001
+Kolkata,India,West Bengal,Eastern,700001
+Ahmedabad,India,Gujarat,Western,380001
+Patna,India,Bihar,Eastern,800001
+Guwahati,India,Assam,Northeastern,781001
+Hyderabad,India,Telangana,Southern,500001
+Bhubaneswar,India,Odisha,Eastern,751001
+Visakhapatnam,India,Andhra Pradesh,Southern,530001
+Pune,India,Maharashtra,Western,411001
+Indore,India,Madhya Pradesh,Central,452001
+Ahmedabad,India,Gujarat,Western,380001
+Hyderabad,India,Telangana,Southern,500001
+Ahmedabad,India,Gujarat,Western,380001
+Ahmedabad,India,Gujarat,Western,380001
+Kolkata,India,West Bengal,Eastern,700001
+Lucknow,India,Uttar Pradesh,Northern,226001
+Indore,India,Madhya Pradesh,Central,452001
+Jaipur,India,Rajasthan,Northern,302001
+Guwahati,India,Assam,Northeastern,781001
+Kolkata,India,West Bengal,Eastern,700001
+Hyderabad,India,Telangana,Southern,500001
+Bhopal,India,Madhya Pradesh,Central,462001
+Guwahati,India,Assam,Northeastern,781001
+Guwahati,India,Assam,Northeastern,781001
+Jaipur,India,Rajasthan,Northern,302001
+Chandigarh,India,Chandigarh,Northern,160001
+Kolkata,India,West Bengal,Eastern,700001
+Mumbai,India,Maharashtra,Western,400001
+Visakhapatnam,India,Andhra Pradesh,Southern,530001
+Pune,India,Maharashtra,Western,411001
+Guwahati,India,Assam,Northeastern,781001
+Pune,India,Maharashtra,Western,411001
+Nagpur,India,Maharashtra,Western,440001
+Patna,India,Bihar,Eastern,800001
+Mumbai,India,Maharashtra,Western,400001
+Hyderabad,India,Telangana,Southern,500001
+Chandigarh,India,Chandigarh,Northern,160001
+Jaipur,India,Rajasthan,Northern,302001
+Guwahati,India,Assam,Northeastern,781001
+Patna,India,Bihar,Eastern,800001
+Chandigarh,India,Chandigarh,Northern,160001
+Patna,India,Bihar,Eastern,800001
+Pune,India,Maharashtra,Western,411001
+Guwahati,India,Assam,Northeastern,781001
+Bhopal,India,Madhya Pradesh,Central,462001
+Hyderabad,India,Telangana,Southern,500001
+Bhubaneswar,India,Odisha,Eastern,751001
+Mumbai,India,Maharashtra,Western,400001
+Pune,India,Maharashtra,Western,411001
+Visakhapatnam,India,Andhra Pradesh,Southern,530001
+Kolkata,India,West Bengal,Eastern,700001
+Chennai,India,Tamil Nadu,Southern,600001
+Hyderabad,India,Telangana,Southern,500001
+Hyderabad,India,Telangana,Southern,500001
+Mumbai,India,Maharashtra,Western,400001
+Lucknow,India,Uttar Pradesh,Northern,226001
+Surat,India,Gujarat,Western,395001
+Hyderabad,India,Telangana,Southern,500001
+Pune,India,Maharashtra,Western,411001
+Lucknow,India,Uttar Pradesh,Northern,226001
+Delhi,India,Delhi,Northern,110001
+Thiruvananthapuram,India,Kerala,Southern,695001
+Kolkata,India,West Bengal,Eastern,700001
+Indore,India,Madhya Pradesh,Central,452001
+Bhopal,India,Madhya Pradesh,Central,462001
+Visakhapatnam,India,Andhra Pradesh,Southern,530001
+Guwahati,India,Assam,Northeastern,781001
+Lucknow,India,Uttar Pradesh,Northern,226001
+Chennai,India,Tamil Nadu,Southern,600001
+Lucknow,India,Uttar Pradesh,Northern,226001
+Bhopal,India,Madhya Pradesh,Central,462001
+Chennai,India,Tamil Nadu,Southern,600001
+Kolkata,India,West Bengal,Eastern,700001
+Thiruvananthapuram,India,Kerala,Southern,695001
+Chandigarh,India,Chandigarh,Northern,160001
+Jaipur,India,Rajasthan,Northern,302001
+Patna,India,Bihar,Eastern,800001
+Mumbai,India,Maharashtra,Western,400001
+Pune,India,Maharashtra,Western,411001
+Hyderabad,India,Telangana,Southern,500001
+Mumbai,India,Maharashtra,Western,400001
+Thiruvananthapuram,India,Kerala,Southern,695001
+Kolkata,India,West Bengal,Eastern,700001
+Bangalore,India,Karnataka,Southern,560001
+Indore,India,Madhya Pradesh,Central,452001
+Jaipur,India,Rajasthan,Northern,302001
+Chandigarh,India,Chandigarh,Northern,160001
+Chennai,India,Tamil Nadu,Southern,600001
+Ahmedabad,India,Gujarat,Western,380001
+Surat,India,Gujarat,Western,395001
+Visakhapatnam,India,Andhra Pradesh,Southern,530001
+Jaipur,India,Rajasthan,Northern,302001
+Ahmedabad,India,Gujarat,Western,380001
+Thiruvananthapuram,India,Kerala,Southern,695001
+Bangalore,India,Karnataka,Southern,560001
+Pune,India,Maharashtra,Western,411001
+Bhubaneswar,India,Odisha,Eastern,751001
+Patna,India,Bihar,Eastern,800001
+Jaipur,India,Rajasthan,Northern,302001
+Chandigarh,India,Chandigarh,Northern,160001
+Surat,India,Gujarat,Western,395001
+Chandigarh,India,Chandigarh,Northern,160001
+Guwahati,India,Assam,Northeastern,781001
+Chennai,India,Tamil Nadu,Southern,600001
+Bhopal,India,Madhya Pradesh,Central,462001
+Bhopal,India,Madhya Pradesh,Central,462001
+Surat,India,Gujarat,Western,395001
+Delhi,India,Delhi,Northern,110001
+Kolkata,India,West Bengal,Eastern,700001
+Bhopal,India,Madhya Pradesh,Central,462001
+Mumbai,India,Maharashtra,Western,400001
+Bangalore,India,Karnataka,Southern,560001
+Thiruvananthapuram,India,Kerala,Southern,695001
+Chennai,India,Tamil Nadu,Southern,600001
+Bhopal,India,Madhya Pradesh,Central,462001
+Surat,India,Gujarat,Western,395001
+Jaipur,India,Rajasthan,Northern,302001
+Bhopal,India,Madhya Pradesh,Central,462001
+Hyderabad,India,Telangana,Southern,500001
+Bangalore,India,Karnataka,Southern,560001
+Mumbai,India,Maharashtra,Western,400001
+Surat,India,Gujarat,Western,395001
+Surat,India,Gujarat,Western,395001
+Guwahati,India,Assam,Northeastern,781001
+Kolkata,India,West Bengal,Eastern,700001
+Mumbai,India,Maharashtra,Western,400001
+Nagpur,India,Maharashtra,Western,440001
+Pune,India,Maharashtra,Western,411001
+Surat,India,Gujarat,Western,395001
+Mumbai,India,Maharashtra,Western,400001
+Kolkata,India,West Bengal,Eastern,700001
+Visakhapatnam,India,Andhra Pradesh,Southern,530001
+Mumbai,India,Maharashtra,Western,400001
+Bangalore,India,Karnataka,Southern,560001
+Bhubaneswar,India,Odisha,Eastern,751001
+Bangalore,India,Karnataka,Southern,560001
+Indore,India,Madhya Pradesh,Central,452001
+Indore,India,Madhya Pradesh,Central,452001
+Bhubaneswar,India,Odisha,Eastern,751001
+Lucknow,India,Uttar Pradesh,Northern,226001
+Delhi,India,Delhi,Northern,110001
+Visakhapatnam,India,Andhra Pradesh,Southern,530001
+Guwahati,India,Assam,Northeastern,781001
+Patna,India,Bihar,Eastern,800001
+Indore,India,Madhya Pradesh,Central,452001
+Delhi,India,Delhi,Northern,110001
+Chandigarh,India,Chandigarh,Northern,160001
+Ahmedabad,India,Gujarat,Western,380001
+Chandigarh,India,Chandigarh,Northern,160001
+Jaipur,India,Rajasthan,Northern,302001
+Bhopal,India,Madhya Pradesh,Central,462001
+Chandigarh,India,Chandigarh,Northern,160001
+Surat,India,Gujarat,Western,395001
+Kolkata,India,West Bengal,Eastern,700001
+Guwahati,India,Assam,Northeastern,781001
+Visakhapatnam,India,Andhra Pradesh,Southern,530001
+Chennai,India,Tamil Nadu,Southern,600001
+Chandigarh,India,Chandigarh,Northern,160001
+Lucknow,India,Uttar Pradesh,Northern,226001
+Pune,India,Maharashtra,Western,411001
+Surat,India,Gujarat,Western,395001
+Ahmedabad,India,Gujarat,Western,380001
+Visakhapatnam,India,Andhra Pradesh,Southern,530001
+Kolkata,India,West Bengal,Eastern,700001
+Indore,India,Madhya Pradesh,Central,452001
+Nagpur,India,Maharashtra,Western,440001
+Bhubaneswar,India,Odisha,Eastern,751001
+Visakhapatnam,India,Andhra Pradesh,Southern,530001
+Jaipur,India,Rajasthan,Northern,302001
+Indore,India,Madhya Pradesh,Central,452001
+Patna,India,Bihar,Eastern,800001
+Guwahati,India,Assam,Northeastern,781001
+Chennai,India,Tamil Nadu,Southern,600001
+Delhi,India,Delhi,Northern,110001
+Lucknow,India,Uttar Pradesh,Northern,226001
+Indore,India,Madhya Pradesh,Central,452001
+Surat,India,Gujarat,Western,395001
+Indore,India,Madhya Pradesh,Central,452001
+Thiruvananthapuram,India,Kerala,Southern,695001
+Jaipur,India,Rajasthan,Northern,302001
+Thiruvananthapuram,India,Kerala,Southern,695001
+Guwahati,India,Assam,Northeastern,781001
+Nagpur,India,Maharashtra,Western,440001
+Patna,India,Bihar,Eastern,800001
+Visakhapatnam,India,Andhra Pradesh,Southern,530001
+Indore,India,Madhya Pradesh,Central,452001
+Guwahati,India,Assam,Northeastern,781001
+Thiruvananthapuram,India,Kerala,Southern,695001
+Hyderabad,India,Telangana,Southern,500001
+Bhubaneswar,India,Odisha,Eastern,751001
+Patna,India,Bihar,Eastern,800001
+Nagpur,India,Maharashtra,Western,440001
+Bhubaneswar,India,Odisha,Eastern,751001
+Hyderabad,India,Telangana,Southern,500001
+Surat,India,Gujarat,Western,395001
+Hyderabad,India,Telangana,Southern,500001
+Pune,India,Maharashtra,Western,411001
+Bangalore,India,Karnataka,Southern,560001
+Patna,India,Bihar,Eastern,800001
+Mumbai,India,Maharashtra,Western,400001
+Patna,India,Bihar,Eastern,800001
+Bhopal,India,Madhya Pradesh,Central,462001
+Indore,India,Madhya Pradesh,Central,452001
+Bangalore,India,Karnataka,Southern,560001
+Mumbai,India,Maharashtra,Western,400001
+Visakhapatnam,India,Andhra Pradesh,Southern,530001
+Bangalore,India,Karnataka,Southern,560001
+Delhi,India,Delhi,Northern,110001
+Surat,India,Gujarat,Western,395001
+Indore,India,Madhya Pradesh,Central,452001
+Hyderabad,India,Telangana,Southern,500001
+Surat,India,Gujarat,Western,395001
+Delhi,India,Delhi,Northern,110001
+Thiruvananthapuram,India,Kerala,Southern,695001
+Mumbai,India,Maharashtra,Western,400001
+Nagpur,India,Maharashtra,Western,440001
+Patna,India,Bihar,Eastern,800001
+Patna,India,Bihar,Eastern,800001
+Visakhapatnam,India,Andhra Pradesh,Southern,530001
+Bhubaneswar,India,Odisha,Eastern,751001
+Pune,India,Maharashtra,Western,411001
+Hyderabad,India,Telangana,Southern,500001
+Visakhapatnam,India,Andhra Pradesh,Southern,530001
+Ahmedabad,India,Gujarat,Western,380001
+Mumbai,India,Maharashtra,Western,400001
+Bhopal,India,Madhya Pradesh,Central,462001
+Indore,India,Madhya Pradesh,Central,452001
+Thiruvananthapuram,India,Kerala,Southern,695001
+Thiruvananthapuram,India,Kerala,Southern,695001
+Mumbai,India,Maharashtra,Western,400001
+Patna,India,Bihar,Eastern,800001
+Bhubaneswar,India,Odisha,Eastern,751001
+Surat,India,Gujarat,Western,395001
+Surat,India,Gujarat,Western,395001
+Bhubaneswar,India,Odisha,Eastern,751001
+Guwahati,India,Assam,Northeastern,781001
+Bangalore,India,Karnataka,Southern,560001
+Bhubaneswar,India,Odisha,Eastern,751001
+Thiruvananthapuram,India,Kerala,Southern,695001
+Chennai,India,Tamil Nadu,Southern,600001
+Mumbai,India,Maharashtra,Western,400001
+Visakhapatnam,India,Andhra Pradesh,Southern,530001
+Kolkata,India,West Bengal,Eastern,700001
+Patna,India,Bihar,Eastern,800001
+Pune,India,Maharashtra,Western,411001
+Lucknow,India,Uttar Pradesh,Northern,226001
+Indore,India,Madhya Pradesh,Central,452001
+Delhi,India,Delhi,Northern,110001
+Jaipur,India,Rajasthan,Northern,302001
+Pune,India,Maharashtra,Western,411001
+Chandigarh,India,Chandigarh,Northern,160001
+Surat,India,Gujarat,Western,395001
+Pune,India,Maharashtra,Western,411001
+Delhi,India,Delhi,Northern,110001
+Surat,India,Gujarat,Western,395001
+Bhubaneswar,India,Odisha,Eastern,751001
+Thiruvananthapuram,India,Kerala,Southern,695001
+Delhi,India,Delhi,Northern,110001
+Indore,India,Madhya Pradesh,Central,452001
+Patna,India,Bihar,Eastern,800001
+Bhopal,India,Madhya Pradesh,Central,462001
+Visakhapatnam,India,Andhra Pradesh,Southern,530001
+Ahmedabad,India,Gujarat,Western,380001
+Bhopal,India,Madhya Pradesh,Central,462001
+Surat,India,Gujarat,Western,395001
+Indore,India,Madhya Pradesh,Central,452001
+Thiruvananthapuram,India,Kerala,Southern,695001
+Hyderabad,India,Telangana,Southern,500001
+Delhi,India,Delhi,Northern,110001
+Ahmedabad,India,Gujarat,Western,380001
+Surat,India,Gujarat,Western,395001
+Ahmedabad,India,Gujarat,Western,380001
+Visakhapatnam,India,Andhra Pradesh,Southern,530001
+Guwahati,India,Assam,Northeastern,781001
+Nagpur,India,Maharashtra,Western,440001
+Surat,India,Gujarat,Western,395001
+Kolkata,India,West Bengal,Eastern,700001
+Indore,India,Madhya Pradesh,Central,452001
+Thiruvananthapuram,India,Kerala,Southern,695001
+Kolkata,India,West Bengal,Eastern,700001
+Bhopal,India,Madhya Pradesh,Central,462001
+Bhubaneswar,India,Odisha,Eastern,751001
+Surat,India,Gujarat,Western,395001
+Jaipur,India,Rajasthan,Northern,302001
+Chandigarh,India,Chandigarh,Northern,160001
+Lucknow,India,Uttar Pradesh,Northern,226001
+Thiruvananthapuram,India,Kerala,Southern,695001
+Delhi,India,Delhi,Northern,110001
+Chandigarh,India,Chandigarh,Northern,160001
+Guwahati,India,Assam,Northeastern,781001
+Chennai,India,Tamil Nadu,Southern,600001
+Indore,India,Madhya Pradesh,Central,452001
+Patna,India,Bihar,Eastern,800001
+Lucknow,India,Uttar Pradesh,Northern,226001
+Ahmedabad,India,Gujarat,Western,380001
+Indore,India,Madhya Pradesh,Central,452001
+Bhubaneswar,India,Odisha,Eastern,751001
+Lucknow,India,Uttar Pradesh,Northern,226001
+Kolkata,India,West Bengal,Eastern,700001
+Guwahati,India,Assam,Northeastern,781001
+Nagpur,India,Maharashtra,Western,440001
+Mumbai,India,Maharashtra,Western,400001
+Visakhapatnam,India,Andhra Pradesh,Southern,530001
+Lucknow,India,Uttar Pradesh,Northern,226001
+Guwahati,India,Assam,Northeastern,781001
+Bangalore,India,Karnataka,Southern,560001
+Bhubaneswar,India,Odisha,Eastern,751001
+Guwahati,India,Assam,Northeastern,781001
+Nagpur,India,Maharashtra,Western,440001
+Bhubaneswar,India,Odisha,Eastern,751001
+Bhopal,India,Madhya Pradesh,Central,462001
+Mumbai,India,Maharashtra,Western,400001
+Indore,India,Madhya Pradesh,Central,452001
+Delhi,India,Delhi,Northern,110001
+Jaipur,India,Rajasthan,Northern,302001
+Jaipur,India,Rajasthan,Northern,302001
+Nagpur,India,Maharashtra,Western,440001
+Indore,India,Madhya Pradesh,Central,452001
+Pune,India,Maharashtra,Western,411001
+Bhopal,India,Madhya Pradesh,Central,462001
+Pune,India,Maharashtra,Western,411001
+Nagpur,India,Maharashtra,Western,440001
+Surat,India,Gujarat,Western,395001
+Guwahati,India,Assam,Northeastern,781001
+Guwahati,India,Assam,Northeastern,781001
+Pune,India,Maharashtra,Western,411001
+Bhopal,India,Madhya Pradesh,Central,462001
+Bhopal,India,Madhya Pradesh,Central,462001
+Delhi,India,Delhi,Northern,110001
+Bhubaneswar,India,Odisha,Eastern,751001
+Thiruvananthapuram,India,Kerala,Southern,695001
+Hyderabad,India,Telangana,Southern,500001
+Bangalore,India,Karnataka,Southern,560001
+Jaipur,India,Rajasthan,Northern,302001
+Bhubaneswar,India,Odisha,Eastern,751001
+Bhubaneswar,India,Odisha,Eastern,751001
+Guwahati,India,Assam,Northeastern,781001
+Pune,India,Maharashtra,Western,411001
+Bhubaneswar,India,Odisha,Eastern,751001
+Bhubaneswar,India,Odisha,Eastern,751001
+Patna,India,Bihar,Eastern,800001
+Bhopal,India,Madhya Pradesh,Central,462001
+Indore,India,Madhya Pradesh,Central,452001
+Delhi,India,Delhi,Northern,110001
+Visakhapatnam,India,Andhra Pradesh,Southern,530001
+Bhopal,India,Madhya Pradesh,Central,462001
+Visakhapatnam,India,Andhra Pradesh,Southern,530001
+Mumbai,India,Maharashtra,Western,400001
+Lucknow,India,Uttar Pradesh,Northern,226001
+Lucknow,India,Uttar Pradesh,Northern,226001
+Lucknow,India,Uttar Pradesh,Northern,226001
+Chandigarh,India,Chandigarh,Northern,160001
+Delhi,India,Delhi,Northern,110001
+Bhubaneswar,India,Odisha,Eastern,751001
+Nagpur,India,Maharashtra,Western,440001
+Jaipur,India,Rajasthan,Northern,302001
+Ahmedabad,India,Gujarat,Western,380001
+Patna,India,Bihar,Eastern,800001
+Bhopal,India,Madhya Pradesh,Central,462001
+Ahmedabad,India,Gujarat,Western,380001
+Surat,India,Gujarat,Western,395001
+Chennai,India,Tamil Nadu,Southern,600001
+Indore,India,Madhya Pradesh,Central,452001
+Surat,India,Gujarat,Western,395001
+Lucknow,India,Uttar Pradesh,Northern,226001
+Hyderabad,India,Telangana,Southern,500001
+Jaipur,India,Rajasthan,Northern,302001
+Lucknow,India,Uttar Pradesh,Northern,226001
+Nagpur,India,Maharashtra,Western,440001
+Ahmedabad,India,Gujarat,Western,380001
+Bangalore,India,Karnataka,Southern,560001
+Thiruvananthapuram,India,Kerala,Southern,695001
+Nagpur,India,Maharashtra,Western,440001
+Patna,India,Bihar,Eastern,800001
+Nagpur,India,Maharashtra,Western,440001
+Indore,India,Madhya Pradesh,Central,452001
+Patna,India,Bihar,Eastern,800001
+Guwahati,India,Assam,Northeastern,781001
+Pune,India,Maharashtra,Western,411001
+Jaipur,India,Rajasthan,Northern,302001
+Nagpur,India,Maharashtra,Western,440001
+Delhi,India,Delhi,Northern,110001
+Pune,India,Maharashtra,Western,411001
+Surat,India,Gujarat,Western,395001
+Patna,India,Bihar,Eastern,800001
+Bangalore,India,Karnataka,Southern,560001
+Chandigarh,India,Chandigarh,Northern,160001
+Patna,India,Bihar,Eastern,800001
+Jaipur,India,Rajasthan,Northern,302001
+Surat,India,Gujarat,Western,395001
+Chandigarh,India,Chandigarh,Northern,160001
+Chennai,India,Tamil Nadu,Southern,600001
+Surat,India,Gujarat,Western,395001
+Lucknow,India,Uttar Pradesh,Northern,226001
+Ahmedabad,India,Gujarat,Western,380001
+Ahmedabad,India,Gujarat,Western,380001
+Visakhapatnam,India,Andhra Pradesh,Southern,530001
+Thiruvananthapuram,India,Kerala,Southern,695001
+Jaipur,India,Rajasthan,Northern,302001
+Chennai,India,Tamil Nadu,Southern,600001
+Guwahati,India,Assam,Northeastern,781001
+Mumbai,India,Maharashtra,Western,400001
+Bangalore,India,Karnataka,Southern,560001
+Bhopal,India,Madhya Pradesh,Central,462001
+Bhubaneswar,India,Odisha,Eastern,751001
+Pune,India,Maharashtra,Western,411001
+Nagpur,India,Maharashtra,Western,440001
+Bangalore,India,Karnataka,Southern,560001
+Thiruvananthapuram,India,Kerala,Southern,695001
+Thiruvananthapuram,India,Kerala,Southern,695001
+Surat,India,Gujarat,Western,395001
+Bhopal,India,Madhya Pradesh,Central,462001
+Chandigarh,India,Chandigarh,Northern,160001
+Nagpur,India,Maharashtra,Western,440001
+Nagpur,India,Maharashtra,Western,440001
+Guwahati,India,Assam,Northeastern,781001
+Nagpur,India,Maharashtra,Western,440001
+Bhubaneswar,India,Odisha,Eastern,751001
+Kolkata,India,West Bengal,Eastern,700001
+Jaipur,India,Rajasthan,Northern,302001
+Bhubaneswar,India,Odisha,Eastern,751001
+Bhopal,India,Madhya Pradesh,Central,462001
+Bhopal,India,Madhya Pradesh,Central,462001
+Nagpur,India,Maharashtra,Western,440001
+Mumbai,India,Maharashtra,Western,400001
+Mumbai,India,Maharashtra,Western,400001
+Kolkata,India,West Bengal,Eastern,700001
+Pune,India,Maharashtra,Western,411001
+Bangalore,India,Karnataka,Southern,560001
+Bangalore,India,Karnataka,Southern,560001
+Delhi,India,Delhi,Northern,110001
+Delhi,India,Delhi,Northern,110001
+Surat,India,Gujarat,Western,395001
+Ahmedabad,India,Gujarat,Western,380001
+Patna,India,Bihar,Eastern,800001
+Nagpur,India,Maharashtra,Western,440001
+Delhi,India,Delhi,Northern,110001
+Delhi,India,Delhi,Northern,110001
+Bhopal,India,Madhya Pradesh,Central,462001
+Visakhapatnam,India,Andhra Pradesh,Southern,530001
+Visakhapatnam,India,Andhra Pradesh,Southern,530001
+Mumbai,India,Maharashtra,Western,400001
+Lucknow,India,Uttar Pradesh,Northern,226001
+Kolkata,India,West Bengal,Eastern,700001
+Lucknow,India,Uttar Pradesh,Northern,226001
+Pune,India,Maharashtra,Western,411001
+Visakhapatnam,India,Andhra Pradesh,Southern,530001
+Patna,India,Bihar,Eastern,800001
+Chennai,India,Tamil Nadu,Southern,600001
+Jaipur,India,Rajasthan,Northern,302001
+Kolkata,India,West Bengal,Eastern,700001
+Lucknow,India,Uttar Pradesh,Northern,226001
+Jaipur,India,Rajasthan,Northern,302001
+Kolkata,India,West Bengal,Eastern,700001
+Patna,India,Bihar,Eastern,800001
+Surat,India,Gujarat,Western,395001
+Chandigarh,India,Chandigarh,Northern,160001
+Visakhapatnam,India,Andhra Pradesh,Southern,530001
+Chandigarh,India,Chandigarh,Northern,160001
+Guwahati,India,Assam,Northeastern,781001
+Ahmedabad,India,Gujarat,Western,380001
+Guwahati,India,Assam,Northeastern,781001
+Thiruvananthapuram,India,Kerala,Southern,695001
+Chandigarh,India,Chandigarh,Northern,160001
+Ahmedabad,India,Gujarat,Western,380001
+Nagpur,India,Maharashtra,Western,440001
+Mumbai,India,Maharashtra,Western,400001
+Jaipur,India,Rajasthan,Northern,302001
+Chandigarh,India,Chandigarh,Northern,160001
+Thiruvananthapuram,India,Kerala,Southern,695001
+Chandigarh,India,Chandigarh,Northern,160001
+Visakhapatnam,India,Andhra Pradesh,Southern,530001
+Thiruvananthapuram,India,Kerala,Southern,695001
+Delhi,India,Delhi,Northern,110001
+Kolkata,India,West Bengal,Eastern,700001
+Bhopal,India,Madhya Pradesh,Central,462001
+Chandigarh,India,Chandigarh,Northern,160001
